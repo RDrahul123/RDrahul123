@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RDrahul123
 - 👀 I’m interested in c++ and Python Programming.
-- 🌱 I’m currently learning Neural Networks
+- 🌱 Data Scientist and Neural Network Trainer
 - 📫 Reach me at merahul248@gmail.com
 
 <!---
