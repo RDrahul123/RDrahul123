@@ -98,13 +98,13 @@
 
 ## Github Stats  
 
-<table>
+<table><tr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdrahul123&show_icons=true&locale=en&layout=compact" alt="rdrahul123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdrahul123&show_icons=true&locale=en" alt="rdrahul123" /></p>
 
-</table> 
+</tr></table> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&" alt="rdrahul123" /></p>
 
