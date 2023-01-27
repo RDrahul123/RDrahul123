@@ -102,6 +102,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdrahul123&show_icons=true&locale=en&layout=compact" alt="rdrahul123" /></p>
 
+</td><td valign="top" width="50%">
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdrahul123&show_icons=true&locale=en" alt="rdrahul123" /></p>
 </td></tr></table> 
 
