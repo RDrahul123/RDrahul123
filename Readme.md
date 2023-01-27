@@ -1,7 +1,7 @@
 
 ## Intro  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img width="452" alt="1" src="https://user-images.githubusercontent.com/44129972/215080471-0cd6b856-9a85-44d5-9b1d-b8cb1085707c.gif">
 </div>  
   
 
