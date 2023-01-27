@@ -7,6 +7,7 @@
 
 ### <div align="center">I'm Rahul, a  developer 👨‍💻who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀</div>  
   
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdrahul123" alt="rdrahul123" /></a> </p>
 
 - 🌱 I’m currently learning AWS and Blockchain  
   
