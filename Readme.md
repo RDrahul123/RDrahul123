@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning AWS and Blockchain  
   
 
-- ❓ Ask me about anything related to C++, Python, Data structures, Algorithm design and related technologies  
+- ❓ Ask me about anything related to C++, Python, Data structures, Algorithm design, Blockchain and related technologies  
   
 
 - ⚡ Fun fact: I frolic, I dodge, I weave, I balance, and my bills are all paid  
