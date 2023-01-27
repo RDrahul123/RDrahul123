@@ -21,7 +21,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><td valign="top" width="33%">
 
 
 
@@ -80,7 +80,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></table>  
 
 </br>
 
