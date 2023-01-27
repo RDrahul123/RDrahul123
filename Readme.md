@@ -110,6 +110,11 @@
 ## Recent Blog Posts  
   
 
+### Computational theory of Blockchain  
+Blockchain is a digital decentralized (no financial institutions involved) and distributed ledger. It is a database that stores records and transactions on multiple computers without one controlling party and according to an agreed policy. The data that is stored is a block, and the blocks are linked together to form a blockchain. Each block contains records and transactions; these blocks are shared across multiple computers and should not be altered absent an agreement (consensus) of the entire network. The network is ruled according to a specific policy. The computers are connected on one network and called peers or nodes.
+
+Read more: 
+https://medium.com/@merahul248 
 <br/>  
 
   
