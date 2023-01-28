@@ -107,10 +107,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&hide_border=true&layout=compact" align="left" style="width: 95%" />
 
 </td></tr></table> 
+  
+<tr><td valign="top" width="50%">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&" alt="rdrahul123" /></p>
+  
+</td><td valign="top" width="50%">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123)
 
+</tr></td> 
+  
 <div align="left">
   
 ## Recent Blog Posts  
