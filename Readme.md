@@ -1,4 +1,3 @@
-
 ## Intro  
 <div align="center">
 <img width="452" alt="1" src="https://user-images.githubusercontent.com/44129972/215080471-0cd6b856-9a85-44d5-9b1d-b8cb1085707c.gif">
@@ -54,8 +53,6 @@
 </div>
 
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -64,6 +61,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
+
   
 ### Databases  
 <div align="center">  
@@ -72,9 +70,7 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </div>
-
 </table>  
-
 <br/>  
 
 ## Connect with me  
@@ -91,9 +87,10 @@
 <a href="https://medium.com/@merahul248" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="https://instagram.com/rahul_me1729" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 </div>  
-  
-
 <br/>  
 
 ## Github Stats  
@@ -123,7 +120,6 @@
 <div align="left">
   
 ## Recent Blog Posts  
-  
 
 ### Computational theory of Blockchain  
 Blockchain is a digital decentralized (no financial institutions involved) and distributed ledger. It is a database that stores records and transactions on multiple computers without one controlling party and according to an agreed policy. The data that is stored is a block, and the blocks are linked together to form a blockchain. Each block contains records and transactions; these blocks are shared across multiple computers and should not be altered absent an agreement (consensus) of the entire network. The network is ruled according to a specific policy. The computers are connected on one network and called peers or nodes.
@@ -131,8 +127,6 @@ Blockchain is a digital decentralized (no financial institutions involved) and d
 Read more: 
 https://medium.com/@merahul248 
 <br/>  
-
-  
 
 <br/>  
 
