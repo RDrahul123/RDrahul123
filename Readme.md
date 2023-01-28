@@ -108,15 +108,17 @@
 
 </td></tr></table> 
   
-<tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&" alt="rdrahul123" /></p>
   
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
+
+<a href="https://github.com/RDrahul123"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true"  width="520" alt="RDrahul123"/></a>
+
+</tr></td></table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123)
-
-</tr></td> 
   
 <div align="left">
   
@@ -138,7 +140,6 @@ https://medium.com/@merahul248
 <img src="https://komarev.com/ghpvc/?username=RDrahul123&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center">
