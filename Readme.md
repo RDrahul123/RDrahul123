@@ -114,8 +114,6 @@
 <a href="https://github.com/RDrahul123"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true"  width="520" alt="RDrahul123"/></a>
 
 </tr></td></table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123)
   
 <div align="left">
   
