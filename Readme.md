@@ -121,6 +121,8 @@
 
 ### Jan 30: What happens when big data combines with blockchain?
 Nowadays technologies are expanding and to some extent we are all aware about blockchain and bigdata. So fundamentally what happens when these two amazing technologies come together and act as one? I bet the results we acheive are astonishing and formidable.
+
+Read more: https://medium.com/@merahul248
   
 ### Jan 24: Computational theory of Blockchain  
 Blockchain is a digital decentralized (no financial institutions involved) and distributed ledger. It is a database that stores records and transactions on multiple computers without one controlling party and according to an agreed policy. The data that is stored is a block, and the blocks are linked together to form a blockchain. Each block contains records and transactions; these blocks are shared across multiple computers and should not be altered absent an agreement (consensus) of the entire network. The network is ruled according to a specific policy. The computers are connected on one network and called peers or nodes.
