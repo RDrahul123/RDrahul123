@@ -1,6 +1,6 @@
 ## Intro  
 <div align="center">
-<img width="452" alt="1" src="https://user-images.githubusercontent.com/44129972/215080471-0cd6b856-9a85-44d5-9b1d-b8cb1085707c.gif">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </div>  
   
 
