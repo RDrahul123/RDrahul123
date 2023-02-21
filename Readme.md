@@ -105,15 +105,11 @@
 
 </td></tr></table> 
   
-<table><tr><td valign="center" width="50%">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&" alt="rdrahul123" /></p>
-  
-</td><td valign="center" width="50%">
+<tr><td valign="center" width="50%">
 
 <a href="https://github.com/RDrahul123"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true"  width="520" alt="RDrahul123"/></a>
 
-</tr></td></table>
+</tr></td>
   
 <div align="left">
   
