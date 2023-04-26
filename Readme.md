@@ -3,11 +3,9 @@
 </div>  
   
 
-# <div align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> I'm Rahul</div>
+# <div align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" /> I'm Rahul</div>
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀💻</div>
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdrahul123" alt="rdrahul123" /></a> </p>
-
 - 🌱 I’m currently learning AWS and Blockchain  
   
 
