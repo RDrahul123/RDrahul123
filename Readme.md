@@ -1,10 +1,10 @@
-## Intro  
 <div align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </div>  
   
 
-### <div align="center">I'm Rahul, a 👨🏻‍💻 developer who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀💻</div>  
+# <div align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> I'm Rahul</div>
+### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀💻</div>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdrahul123" alt="rdrahul123" /></a> </p>
 
