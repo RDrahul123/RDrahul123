@@ -106,6 +106,12 @@
 <a href="https://github.com/RDrahul123"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true"  width="520" alt="RDrahul123"/></a>
 
 </tr></td>
+
+<tr><td valign="center" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=RDrahul123&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+
+</tr></td>
   
 <div align="left">
   
