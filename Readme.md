@@ -2,7 +2,6 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </div>  
   
-
 # <div align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" /> I'm Rahul</div>
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀💻</div>
   
