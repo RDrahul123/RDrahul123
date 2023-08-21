@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </div>  
   
-# <div align="center">Hi I'm Rahul</div>
+# <div align="center">Hey There, I'm Rahul</div>
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀💻</div>
   
 - 🌱 I’m currently learning AWS and Blockchain  
