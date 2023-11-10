@@ -10,7 +10,7 @@
 
 - ❓ Ask me about anything related to C++, Python, Data structures, Algorithm design, Blockchain and related technologies
 
-- 📔 Keenly interested in Computer networking and computer organisation and architecture. 
+- 📔 Keenly interested in Computer networking and computer organisation architecture. 
   
 
 - ⚡ Fun fact: I frolic, I dodge, I weave, I balance, and my bills are all paid  
