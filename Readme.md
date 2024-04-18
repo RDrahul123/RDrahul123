@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AWS and Blockchain  
   
 
-- ❓ Ask me about anything related to C++, Python, Data structures, Algorithm design, Blockchain and related technologies
+- ❓ Ask me about anything related to C++, Java, Data structures, Algorithm design, Blockchain and related technologies
 
 - 📔 Keenly interested in Computer networking and computer organisation architecture. 
   
