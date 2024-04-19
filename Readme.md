@@ -96,7 +96,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrahul123&layout=donut&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
 </td></tr></table> 
   
