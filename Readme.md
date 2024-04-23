@@ -108,7 +108,7 @@
 
 <tr><td valign="center" width="50%">
 
-<img src="https://streak-stats.demolab.com?user=RDrahul123&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&" alt="rdrahul123" /></p>
 
 </tr></td>
   
