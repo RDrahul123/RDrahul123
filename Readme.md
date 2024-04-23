@@ -90,6 +90,9 @@
 <br/>  
 
 ## Github Stats:
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdrahul123" alt="rdrahul123" /></a> </p>
+
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
@@ -102,7 +105,7 @@
   
 <tr><td valign="center" width="50%">
 
-<a href="https://github.com/RDrahul123"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true"  width="520" alt="RDrahul123"/></a>
+<p><img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true" alt="rdrahul123" /></p>
 
 </tr></td>
 
@@ -113,22 +116,26 @@
 </tr></td>
   
 <div align="left">
-  
+
 ## Recent Blog Posts: 
 
 ### Jan 30: What happens when big data combines with blockchain?
 Nowadays technologies are expanding and to some extent we are all aware about blockchain and bigdata. So fundamentally what happens when these two amazing technologies come together and act as one? I bet the results we acheive are astonishing and formidable.
 
 Read more: https://medium.com/@merahul248
+<a href="https://medium.com/@merahul248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@merahul248" height="30" width="40" /></a>
+
   
 ### Jan 24: Computational theory of Blockchain  
 Blockchain is a digital decentralized (no financial institutions involved) and distributed ledger. It is a database that stores records and transactions on multiple computers without one controlling party and according to an agreed policy. The data that is stored is a block, and the blocks are linked together to form a blockchain. Each block contains records and transactions; these blocks are shared across multiple computers and should not be altered absent an agreement (consensus) of the entire network. The network is ruled according to a specific policy. The computers are connected on one network and called peers or nodes.
 
 Read more: 
 https://medium.com/@merahul248 
-<br/>  
+<a href="https://medium.com/@merahul248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@merahul248" height="30" width="40" /></a>
 
 <br/>  
+<br/>  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RDrahul123&&style=flat-square" align="center" />
