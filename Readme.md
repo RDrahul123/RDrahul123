@@ -95,8 +95,20 @@
 
 <div align="center">
 <table><tr><td valign="top" width="50%">
+  
+[![RDrahul123's GitHub | Stats](https://stats.quira.sh/RDrahul123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RDrahul123)
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+[![RDrahul123's GitHub | Languages Over Time](https://stats.quira.sh/RDrahul123/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RDrahul123)
+
+</td></tr></table> 
+
+
+<div align="center">
+<table><tr><td valign="top" width="50%">
+  
+[![RDrahul123's GitHub | Topics Over Time](https://stats.quira.sh/RDrahul123/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RDrahul123)
+
 
 </td><td valign="top" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrahul123&layout=donut&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
