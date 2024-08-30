@@ -111,19 +111,19 @@
 
 
 </td><td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrahul123&layout=donut&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrahul123&layout=donut&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 95%" />
 
 </td></tr></table> 
   
 <tr><td valign="center" width="50%">
 
-<p><img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true" alt="rdrahul123" /></p>
+<p><img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&hide_border=true&theme=dark" alt="rdrahul123" /></p>
 
 </tr></td>
 
 <tr><td valign="center" width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&" alt="rdrahul123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&theme=dark" alt="rdrahul123" /></p>
 
 </tr></td>
   
