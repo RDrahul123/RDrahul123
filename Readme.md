@@ -3,7 +3,7 @@
 </div>  
   
 # <div align="center">Hey There, I'm Rahul</div>
-### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's vision to life with strong creative and analytical skills. 🚀💻</div>
+### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's 😊 vision to life with strong creative and analytical skills. 🚀💻</div>
   
 - 🌱 I’m currently learning AWS and Blockchain  
   
