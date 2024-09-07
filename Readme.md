@@ -6,12 +6,10 @@
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's 😊 vision to life with strong creative and analytical skills. 🚀💻</div>
   
 - 🌱 I’m currently learning AWS and Blockchain  
-  
 
-- ❓ Ask me about anything related to C++, Java, Data structures, Algorithm design, Blockchain and related technologies
+- ❓ Ask me about anything related to C++, Java and its frameworks, Data structures, Algorithm design, Blockchain and related technologies.
 
-- 📔 Keenly interested in Computer networking and computer organisation architecture. 
-  
+- 📔 Keenly interested in Computer networking and Computer architecture. 
 
 - ⚡ Fun fact: I frolic, I dodge, I weave, I balance, and my bills are all paid  
   
@@ -103,12 +101,10 @@
 
 </td></tr></table> 
 
-
 <div align="center">
 <table><tr><td valign="top" width="50%">
   
 [![RDrahul123's GitHub | Topics Over Time](https://stats.quira.sh/RDrahul123/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RDrahul123)
-
 
 </td><td valign="top" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrahul123&layout=donut&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 95%" />
