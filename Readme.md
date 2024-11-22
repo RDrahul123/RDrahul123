@@ -5,9 +5,9 @@
 # <div align="center">Hey There, I'm Rahul</div>
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's 😊 vision to life with strong creative and analytical skills. 🚀💻</div>
   
-- 🌱 I’m currently learning AWS and Blockchain  
+- 🌱 I’m currently learning Data Science, Cloud Computing and Machine Learning.  
 
-- ❓ Ask me about anything related to C++, Java and its frameworks, Data structures, Algorithm design, Blockchain and related technologies.
+- ❓ Ask me about anything related to Data Science, Data Analytics, Cloud Computing, Data structures, Algorithm design.
 
 - 📔 Keenly interested in Computer networking and Computer architecture. 
 
