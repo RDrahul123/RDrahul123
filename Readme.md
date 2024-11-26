@@ -11,7 +11,7 @@
 
 - 📔 Keenly interested in Computer networking and Computer architecture. 
 
-- ⚡ Fun fact: I frolic, I dodge, I weave, I balance, and my bills are all paid  
+- ⚡ Fun fact: I frolic, I dodge, I weave, I balance, and my bills are all paid.
   
 
 <br/>  
