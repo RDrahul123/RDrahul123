@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png" height="230"/>
 </div>  
   
 # <div align="center">Hey There, I'm Rahul</div>
