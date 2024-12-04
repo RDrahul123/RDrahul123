@@ -2,7 +2,7 @@
   <img src="https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png" height="230"/>
 </div>  
   
-# <div align="center">Hey There, I'm Rahul</div>
+# <div align="center">Hey There, I'm Prakrit</div>
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's 😊 vision to life with strong creative and analytical skills. 🚀💻</div>
   
 - 🌱 I’m currently learning Data Science, Cloud Computing and Machine Learning.  
