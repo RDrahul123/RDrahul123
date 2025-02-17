@@ -121,7 +121,7 @@
 
 <tr><td valign="center" width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrahul123&theme=dark" alt="rdrahul123" /></p>
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Rdrahul123&theme=dark&border=599200">
 
 </tr></td>
   
