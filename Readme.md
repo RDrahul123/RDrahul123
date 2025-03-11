@@ -31,7 +31,10 @@
 ### Libraries
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/Tensorflow-icon.svg" alt="OpenCV" height="50" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg" alt="NumPy" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="50" /></a>
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" height="50" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/Tensorflow-icon.svg" alt="OpenCV" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  </p>
 </div>
 
