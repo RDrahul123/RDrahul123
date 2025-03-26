@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning Data Science, Aritificial Intelligence and Machine Learning.  
 
-- ❓ Ask me about anything related to Data Science, Data Analytics, Cloud Computing, Data structures, Algorithm design.
+- ❓ Ask me about anything related to Machine Learning, Data Science, Data Analytics, Cloud Computing, Data structures, Algorithm design.
 
 - 📔 Keenly interested in Data Science and Deep Learning. 
 
