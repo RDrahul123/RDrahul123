@@ -5,7 +5,7 @@
 # <div align="center">Hey There, I'm Prakrit</div>
 ### <div align="center">A 👨🏻‍💻 developer who is passionate about bringing people's 😊 vision to life with strong creative and analytical skills. 🚀💻</div>
   
-- 🌱 I’m currently learning Data Science, Aritificial Intelligence and Machine Learning.  
+- 🌱 I’m currently learning Deep Learning and Neural Networks.  
 
 - ❓ Ask me about anything related to Machine Learning, Data Science, Data Analytics, Cloud Computing, Data structures, Algorithm design.
 
