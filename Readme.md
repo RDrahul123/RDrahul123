@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,80:16213e,100:0f3460&height=220&section=header&text=Rahul%20Dodke&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Analyst%20%7C%20Software%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=62&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:1a5276,80:2e86c1,100:85c1e9&height=220&section=header&text=Rahul%20Dodke&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Analyst%20%7C%20Software%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=62&descSize=17&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Analyst+;Python+%7C+Pandas+%7C+Scikit-learn+%7C+Power+BI;Turning+Raw+Data+into+Business+Insights;Machine+Learning+%7C+Predictive+Modeling" alt="Typing SVG" />
