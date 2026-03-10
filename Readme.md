@@ -31,16 +31,13 @@
 rahul = {
     "name"       : "Rahul Dodke",
     "role"       : "Data Science Analyst",
-    "company"    : "Samatrix Consulting Pvt. Ltd.",
-    "location"   : "Indore, Madhya Pradesh 🇮🇳",
-    "education"  : "B.Tech CSE — CGPA 8.2",
     "languages"  : ["Python", "C++", "Java"],
     "passion"    : "Turning data into decisions 📊",
     "fun_fact"   : "I clean data more than my room 🧹"
 }
 ```
 
-- 🔭 Currently **Data Science Analyst** at Samatrix Consulting
+- 🔭 Currently **Data Science Analyst** 
 - 📊 Process **100K+ records weekly** with Python & SQL
 - 🎯 Achieved **99.9% accuracy** in data preprocessing pipelines
 - 🏆 **Winner** — Inter-School Science Exhibition
