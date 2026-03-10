@@ -185,7 +185,7 @@ jobs:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Dodke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-dodke)
 [![GitHub](https://img.shields.io/badge/GitHub-RDrahul123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDrahul123)
-[![Gmail](https://img.shields.io/badge/Gmail-rahuldodke135-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahuldodke135@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-prakritrahul-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakrit.2902@gmail.com)
 
 </div>
 
