@@ -40,7 +40,6 @@ rahul = {
 - 🔭 Currently **Data Science Analyst** 
 - 📊 Process **100K+ records weekly** with Python & SQL
 - 🎯 Achieved **99.9% accuracy** in data preprocessing pipelines
-- 🏆 **Winner** — Inter-School Science Exhibition
 - 🌱 Deep-diving into **ML, Time Series & Predictive Modeling**
 - 🤝 Open to collabs on **Data Science / ML / Open Source**
 
