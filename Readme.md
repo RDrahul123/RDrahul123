@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Rahul Dodke — Data to Decisions to Systems" width="100%" />
+<img src="assets/profile-banner.svg" alt="Rahul (Prakrit) — Data to Decisions to Systems" width="100%" />
 
 <br />
 
