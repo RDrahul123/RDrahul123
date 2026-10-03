@@ -37,9 +37,10 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <div align="center">
 
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|:---:|
-| <strong>100K+</strong><br />records analyzed weekly | <strong>99.9%</strong><br />preprocessing accuracy | <strong>+15%</strong><br />decision-making improvement | <strong>3+ years</strong><br />data & software experience |
+![100K+ records analyzed weekly](https://img.shields.io/badge/100K%2B-records%20analyzed%20weekly-101827?style=for-the-badge&labelColor=101827&color=56E0D0)
+![99.9% preprocessing accuracy](https://img.shields.io/badge/99.9%25-preprocessing%20accuracy-101827?style=for-the-badge&labelColor=101827&color=7B9CFF)
+![15% decision impact](https://img.shields.io/badge/%2B15%25-decision%20impact-101827?style=for-the-badge&labelColor=101827&color=C37BFF)
+![3+ years experience](https://img.shields.io/badge/3%2B%20years-data%20%26%20software-101827?style=for-the-badge&labelColor=101827&color=FFB454)
 
 </div>
 
@@ -47,15 +48,25 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 ## &nbsp;02 / Selected builds
 
-<div align="center">
+### 📈 [Sales Forecasting](https://github.com/RDrahul123/Sales-Forecasting)
+End-to-end daily sales forecasting for individual stores, with multiple model families and an interactive web app.
 
-| &nbsp;01 · FORECASTING &nbsp; | &nbsp;02 · FULL-STACK + AI &nbsp; |
-|:---|:---|
-| **📈 [Sales Forecasting](https://github.com/RDrahul123/Sales-Forecasting)**<br />An end-to-end system for predicting daily sales at the store level, with multiple model families and an interactive web app.<br /><br />`PYTHON` &nbsp; `MACHINE LEARNING` &nbsp; `TIME SERIES` | **✅ [MarkIt](https://github.com/RDrahul123/MarkIt---AI-Powered-Attendance-Manager)**<br />A full-stack attendance manager bringing together Excel workflows, real-time tracking, and AI-assisted analytics.<br /><br />`REACT` &nbsp; `FASTAPI` &nbsp; `POSTGRESQL` |
-| &nbsp;03 · LEARNING IN PUBLIC &nbsp; | &nbsp;04 · CREATIVE TOOLING &nbsp; |
-| **🧠 [LLMs](https://github.com/RDrahul123/LLMs)**<br />A practical, open course exploring prompt engineering, APIs, RAG, and fine-tuning.<br /><br />`PYTHON` &nbsp; `LLMS` &nbsp; `RAG` | **🗒️ [Notiva Notes](https://github.com/RDrahul123/Notiva-Notes)**<br />An offline-first, graph-based notes app inspired by Obsidian. Your notes stay in your browser.<br /><br />`HTML` &nbsp; `JAVASCRIPT` &nbsp; `OFFLINE-FIRST` |
+`Python` · `Machine Learning` · `Time Series`
 
-</div>
+### ✅ [MarkIt — AI Attendance Manager](https://github.com/RDrahul123/MarkIt---AI-Powered-Attendance-Manager)
+A full-stack attendance manager bringing together Excel workflows, real-time tracking, and AI-assisted analytics.
+
+`React` · `FastAPI` · `PostgreSQL`
+
+### 🧠 [LLMs](https://github.com/RDrahul123/LLMs)
+A practical, open course exploring prompt engineering, APIs, RAG, and fine-tuning.
+
+`Python` · `LLMs` · `RAG`
+
+### 🗒️ [Notiva Notes](https://github.com/RDrahul123/Notiva-Notes)
+An offline-first, graph-based notes app inspired by Obsidian. Your notes stay in your browser.
+
+`HTML` · `JavaScript` · `Offline-first`
 
 <div align="center">
 
@@ -65,13 +76,19 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <br />
 
-## &nbsp;03 / The toolkit
+## &nbsp;03 / Skills, by workflow
 
-<div align="center">
+### 01 · Understand the data
+`Python` `SQL` `Pandas` `NumPy` `Power BI` `Tableau`
 
-<img src="assets/skills-map.svg" alt="Skills map: data and insight flows through machine learning and product engineering to cloud delivery" width="96%" />
+### 02 · Find the signal
+`Scikit-learn` `TensorFlow (basic)` `Forecasting` `NLP` `Computer Vision` `RAG`
 
-</div>
+### 03 · Build the product
+`FastAPI` `React` `PostgreSQL` `REST APIs` `Git` `Testing`
+
+### 04 · Ship and iterate
+`Docker` `AWS` `Linux` `CI/CD` `Dashboards` `Applications`
 
 <br />
 
@@ -89,19 +106,15 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4&include_all_commits=true" alt="GitHub stats: stars, commits, and rank" />
-&nbsp;&nbsp;
-<img height="175" src="https://streak-stats.demolab.com?user=RDrahul123&theme=transparent&hide_border=true&background=0B1020&ring=56E0D0&fire=FFB454&currStreakLabel=56E0D0&sideLabels=D7E3F4&dates=8795AA" alt="GitHub contribution streak" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4&include_all_commits=true" alt="GitHub stats: stars, commits, and rank" width="467" /></p>
 
-<br />
+<p><img src="https://streak-stats.demolab.com?user=RDrahul123&theme=transparent&hide_border=true&background=0B1020&ring=56E0D0&fire=FFB454&currStreakLabel=56E0D0&sideLabels=D7E3F4&dates=8795AA" alt="GitHub contribution streak" width="467" /></p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&text_color=D7E3F4&langs_count=8" alt="Most-used languages" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RDrahul123&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&text_color=D7E3F4&langs_count=8" alt="Most-used languages" width="467" /></p>
 
-<br />
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RDrahul123&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day" width="467" /></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&theme=github_dark" alt="GitHub contribution activity timeline and calendar" width="96%" />
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&theme=github_dark" alt="GitHub contribution activity timeline and calendar" width="700" /></p>
 
 </div>
 
@@ -127,9 +140,9 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <div align="center">
 
-<a href="https://github.com/RDrahul123/Sales-Forecasting"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=Sales-Forecasting&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="Sales Forecasting repository stats" /></a>
-&nbsp;
-<a href="https://github.com/RDrahul123/MarkIt---AI-Powered-Attendance-Manager"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=MarkIt---AI-Powered-Attendance-Manager&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="MarkIt repository stats" /></a>
+<p><a href="https://github.com/RDrahul123/Sales-Forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=Sales-Forecasting&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="Sales Forecasting repository stats" width="467" /></a></p>
+
+<p><a href="https://github.com/RDrahul123/MarkIt---AI-Powered-Attendance-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=MarkIt---AI-Powered-Attendance-Manager&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="MarkIt repository stats" width="467" /></a></p>
 
 </div>
 
