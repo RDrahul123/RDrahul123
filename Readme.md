@@ -69,9 +69,23 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <div align="center">
 
-<img src="assets/skills-map.svg" alt="Skills map: data and insight flows through machine learning and product engineering to cloud delivery" width="96%" />
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=56E0D0)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=7B9CFF)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=56E0D0)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=7B9CFF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=FFB454)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF9A58)
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=FFD45C)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=56E0D0)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=56C8FF)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FFB454)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=FF785A)
 
 </div>
+
+| **Analyze** | **Build** | **Ship** |
+|:---|:---|:---|
+| Python · SQL · Pandas · NumPy · Power BI | Scikit-learn · TensorFlow · FastAPI · React | Git · Docker · AWS · PostgreSQL |
 
 <br />
 
@@ -101,7 +115,7 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&theme=github_dark" alt="GitHub contribution activity timeline and calendar" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RDrahul123&bg_color=0B1020&color=D7E3F4&line=56E0D0&point=7B9CFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity over time" width="96%" />
 
 </div>
 
