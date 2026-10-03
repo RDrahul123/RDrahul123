@@ -1,0 +1,96 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="22" x2="1329" y2="399" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D18"/>
+      <stop offset="0.52" stop-color="#111A2B"/>
+      <stop offset="1" stop-color="#101126"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="101" y1="50" x2="1296" y2="375" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56E0D0" stop-opacity=".7"/>
+      <stop offset=".54" stop-color="#7189FF" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#C37BFF" stop-opacity=".58"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#56E0D0"/>
+      <stop offset="1" stop-color="#7B9CFF"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="matrix(367 193 -119 226 1121 117)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5451B9" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#5451B9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="matrix(333 143 -84 195 218 56)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#147E82" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#147E82" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#A8B7D5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="700" y="32" width="650" height="344" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="1" y="1" width="1398" height="418" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1400" height="420" fill="url(#bg)"/>
+    <rect width="1400" height="420" fill="url(#glowA)"/>
+    <rect width="1400" height="420" fill="url(#glowB)"/>
+    <rect width="1400" height="420" fill="url(#grid)"/>
+
+    <path d="M804 421L1401 88" stroke="#7B9CFF" stroke-opacity=".10"/>
+    <path d="M1011 421L1401 203" stroke="#56E0D0" stroke-opacity=".10"/>
+    <path d="M1200 421L1401 309" stroke="#C37BFF" stroke-opacity=".10"/>
+
+    <g opacity=".27" filter="url(#softGlow)">
+      <path d="M802 286L878 238L940 257L1013 167L1084 201L1146 135L1221 166L1313 83" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M802 286L878 238L940 257L1013 167L1084 201L1146 135L1221 166L1313 83" stroke="url(#accent)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#101827" stroke="#56E0D0" stroke-width="2">
+      <circle cx="878" cy="238" r="5"/><circle cx="1013" cy="167" r="5"/><circle cx="1146" cy="135" r="5"/><circle cx="1313" cy="83" r="5"/>
+    </g>
+    <g opacity=".42" fill="#7B9CFF">
+      <rect x="844" y="312" width="20" height="50" rx="5"/>
+      <rect x="882" y="292" width="20" height="70" rx="5"/>
+      <rect x="920" y="321" width="20" height="41" rx="5"/>
+      <rect x="958" y="278" width="20" height="84" rx="5"/>
+      <rect x="996" y="298" width="20" height="64" rx="5"/>
+      <rect x="1034" y="255" width="20" height="107" rx="5"/>
+      <rect x="1072" y="272" width="20" height="90" rx="5"/>
+    </g>
+
+    <rect x="88" y="70" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="141" y="76" fill="#76E5DA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" letter-spacing="2.2">DATA SCIENCE  /  SOFTWARE  /  APPLIED AI</text>
+
+    <text x="84" y="174" fill="#F3F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="64" font-weight="700" letter-spacing="-2.5">Rahul Dodke</text>
+    <text x="88" y="214" fill="#AEBBD0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="400">Turning data into decisions — and ideas into useful software.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" letter-spacing=".6">
+      <rect x="88" y="263" width="154" height="36" rx="18" fill="#56E0D0" fill-opacity=".09" stroke="#56E0D0" stroke-opacity=".28"/>
+      <circle cx="107" cy="281" r="4" fill="#56E0D0"/>
+      <text x="120" y="285" fill="#B9F4EC">DATA → DECISIONS</text>
+
+      <rect x="254" y="263" width="148" height="36" rx="18" fill="#7B9CFF" fill-opacity=".08" stroke="#7B9CFF" stroke-opacity=".28"/>
+      <circle cx="273" cy="281" r="4" fill="#9BABFF"/>
+      <text x="286" y="285" fill="#D4DBFF">MODELS → SYSTEMS</text>
+
+      <rect x="414" y="263" width="132" height="36" rx="18" fill="#C37BFF" fill-opacity=".08" stroke="#C37BFF" stroke-opacity=".28"/>
+      <circle cx="433" cy="281" r="4" fill="#C890FF"/>
+      <text x="446" y="285" fill="#E8D5FF">BUILT TO SHIP</text>
+    </g>
+
+    <g opacity=".8">
+      <rect x="88" y="347" width="7" height="7" rx="2" fill="#56E0D0"/>
+      <text x="105" y="355" fill="#74839C" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.5">PYTHON</text>
+      <circle cx="190" cy="351" r="2" fill="#53627B"/>
+      <text x="205" y="355" fill="#74839C" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.5">SQL</text>
+      <circle cx="258" cy="351" r="2" fill="#53627B"/>
+      <text x="273" y="355" fill="#74839C" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.5">MACHINE LEARNING</text>
+      <circle cx="431" cy="351" r="2" fill="#53627B"/>
+      <text x="446" y="355" fill="#74839C" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.5">INDIA</text>
+    </g>
+
+    <rect x="1" y="1" width="1398" height="418" rx="28" stroke="url(#stroke)" stroke-opacity=".65" stroke-width="1.5"/>
+  </g>
+</svg>
