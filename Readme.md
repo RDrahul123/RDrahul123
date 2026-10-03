@@ -103,13 +103,47 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="Rahul's GitHub stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&text_color=D7E3F4" alt="Rahul's most-used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4&include_all_commits=true" alt="GitHub stats: stars, commits, and rank" />
+&nbsp;&nbsp;
+<img height="175" src="https://streak-stats.demolab.com?user=RDrahul123&theme=transparent&hide_border=true&background=0B1020&ring=56E0D0&fire=FFB454&currStreakLabel=56E0D0&sideLabels=D7E3F4&dates=8795AA" alt="GitHub contribution streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RDrahul123&bg_color=0B1020&color=D7E3F4&line=56E0D0&point=7B9CFF&area=true&hide_border=true" alt="Contribution activity graph" width="96%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&text_color=D7E3F4&langs_count=8" alt="Most-used languages" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RDrahul123&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RDrahul123&bg_color=0B1020&color=D7E3F4&line=56E0D0&point=7B9CFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity over time" width="96%" />
+
+</div>
+
+<br />
+
+## &nbsp;06 / Contribution calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RDrahul123/RDrahul123/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RDrahul123/RDrahul123/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake traveling across Rahul's GitHub contribution calendar" src="https://raw.githubusercontent.com/RDrahul123/RDrahul123/output/github-contribution-grid-snake.svg" width="96%" />
+</picture>
+
+<sub>A little snake, a lot of commits. The contribution animation refreshes daily.</sub>
+
+</div>
+
+<br />
+
+## &nbsp;07 / Projects in focus
+
+<div align="center">
+
+<a href="https://github.com/RDrahul123/Sales-Forecasting"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=Sales-Forecasting&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="Sales Forecasting repository stats" /></a>
+&nbsp;
+<a href="https://github.com/RDrahul123/MarkIt---AI-Powered-Attendance-Manager"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=MarkIt---AI-Powered-Attendance-Manager&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="MarkIt repository stats" /></a>
 
 </div>
 
