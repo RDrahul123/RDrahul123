@@ -85,9 +85,7 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4&include_all_commits=true" alt="GitHub stats: stars, commits, and rank" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&text_color=D7E3F4&langs_count=8" alt="Most-used languages" />
+**[View my GitHub profile and activity ↗](https://github.com/RDrahul123)**
 
 </div>
 
