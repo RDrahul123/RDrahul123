@@ -27,7 +27,7 @@
 
 ---
 
-## &nbsp;01 / A little about me
+## About
 
 I’m **Rahul (Prakrit) Dodke** — a data science analyst who enjoys working across the whole problem-solving loop: understanding the question, making the data trustworthy, finding the signal, and delivering something people can actually use.
 
@@ -35,17 +35,7 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <br />
 
-<div align="center">
-
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|:---:|
-| <strong>100K+</strong><br />records analyzed weekly | <strong>99.9%</strong><br />preprocessing accuracy | <strong>+15%</strong><br />decision-making improvement | <strong>3+ years</strong><br />data & software experience |
-
-</div>
-
-<br />
-
-## &nbsp;02 / Selected builds
+## Selected projects
 
 <div align="center">
 
@@ -65,7 +55,7 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <br />
 
-## &nbsp;03 / The toolkit
+## The toolkit
 
 <div align="center">
 
@@ -81,7 +71,7 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <br />
 
-## &nbsp;04 / Currently curious about
+## Currently exploring
 
 <div align="center">
 
@@ -91,29 +81,19 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 
 <br />
 
-## &nbsp;05 / GitHub, in motion
+## GitHub activity
 
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4&include_all_commits=true" alt="GitHub stats: stars, commits, and rank" />
 &nbsp;&nbsp;
-<img height="175" src="https://streak-stats.demolab.com?user=RDrahul123&theme=transparent&hide_border=true&background=0B1020&ring=56E0D0&fire=FFB454&currStreakLabel=56E0D0&sideLabels=D7E3F4&dates=8795AA" alt="GitHub contribution streak" />
-
-<br />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&text_color=D7E3F4&langs_count=8" alt="Most-used languages" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RDrahul123&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDrahul123&theme=github_dark" alt="GitHub contributions and activity trend over time" width="96%" />
 
 </div>
 
 <br />
 
-## &nbsp;06 / Contribution calendar
+## Contribution calendar
 
 <div align="center">
 
@@ -124,18 +104,6 @@ My toolkit spans **Python, SQL, analytics, machine learning, and software engine
 </picture>
 
 <sub>A little snake, a lot of commits. The contribution animation refreshes daily.</sub>
-
-</div>
-
-<br />
-
-## &nbsp;07 / Projects in focus
-
-<div align="center">
-
-<a href="https://github.com/RDrahul123/Sales-Forecasting"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=Sales-Forecasting&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="Sales Forecasting repository stats" /></a>
-&nbsp;
-<a href="https://github.com/RDrahul123/MarkIt---AI-Powered-Attendance-Manager"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RDrahul123&repo=MarkIt---AI-Powered-Attendance-Manager&hide_border=true&theme=transparent&bg_color=0B1020&title_color=56E0D0&icon_color=7B9CFF&text_color=D7E3F4" alt="MarkIt repository stats" /></a>
 
 </div>
 
