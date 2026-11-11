@@ -151,12 +151,12 @@ Reliable data pipelines   ███████░░░░░░░░░   mak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RDrahul123&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=101827&title_color=56E0D0&text_color=AEBBD0&icon_color=7B9CFF&custom_title=GitHub%20Stats" alt="Rahul's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDrahul123&layout=compact&langs_count=8&hide_border=true&bg_color=101827&title_color=56E0D0&text_color=AEBBD0&custom_title=Most%20Used%20Languages" alt="Rahul's most used languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RDrahul123&theme=github_dark" alt="GitHub stats: total stars, commits, PRs, issues and repositories contributed to" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RDrahul123&theme=github_dark" alt="Language breakdown across Rahul's repositories" />
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=RDrahul123&theme=darkhub&no-frame=true&column=4&margin-w=8" alt="GitHub profile trophies" width="90%" />
+<img src="https://gh-trophy.vercel.app/?username=RDrahul123&theme=darkhub&no-frame=true&column=4&margin-w=8" alt="GitHub profile trophies" width="90%" />
 
 <br /><br />
 
@@ -164,11 +164,7 @@ Reliable data pipelines   ███████░░░░░░░░░   mak
 
 <br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RDrahul123&bg_color=101827&color=AEBBD0&line=56E0D0&point=C37BFF&area=true&area_color=56E0D0&hide_border=true&title_color=56E0D0&custom_title=Contribution%20Graph" alt="Rahul's contribution graph over the last year" />
-
-<br /><br />
-
-<img src="https://leetcard.jacoblin.cool/rahul0566?theme=dark&ext=activity" alt="Rahul's LeetCode statistics" width="60%" />
+<img width="100%" src="https://activity-graph.vercel.app/graph?username=RDrahul123&bg_color=101827&color=AEBBD0&line=56E0D0&point=C37BFF&area=true&area_color=56E0D0&hide_border=true&title_color=56E0D0&custom_title=Contribution%20Graph" alt="Rahul's contribution graph over the last year" />
 
 </div>
 
