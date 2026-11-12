@@ -156,10 +156,6 @@ Reliable data pipelines   ███████░░░░░░░░░   mak
 
 <br /><br />
 
-<img src="https://gh-trophy.vercel.app/?username=RDrahul123&theme=darkhub&no-frame=true&column=4&margin-w=8" alt="GitHub profile trophies" width="90%" />
-
-<br /><br />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=RDrahul123&hide_border=true&background=101827&stroke=1F2A3D&ring=56E0D0&fire=C37BFF&currStreakNum=F3F6FC&sideNums=F3F6FC&currStreakLabel=56E0D0&sideLabels=AEBBD0&dates=74839C" alt="Rahul's commit streak" />
 
 <br /><br />
